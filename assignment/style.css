@@ -11,4 +11,4 @@ image{border: 2px full firebrick;}
 /* Change the font-family of your list */
 li{font-family: Arial, Helvetica, sans-serif;}
 /* Add a background color to the footer element */
-footer{background-color: lightgrey;}
+footer{background-color: lightgrey; color: darkred;}
